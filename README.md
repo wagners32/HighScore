@@ -1,6 +1,6 @@
 # HighScore
 
-**TODO: Add description**
+**Elixir Maps**
 
 ## Installation
 
